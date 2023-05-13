@@ -1,1 +1,1 @@
-Predicting lung cancer through CT scan using CNN model
+Application to diagnose lung cancer through tomography according to CNN model
